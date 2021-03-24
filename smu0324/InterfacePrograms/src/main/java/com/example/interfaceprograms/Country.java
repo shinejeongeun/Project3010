@@ -1,18 +1,19 @@
 package com.example.interfaceprograms;
 
-public class Country {
+public class Country implements Measurable {
     private double area;
     private String country;
 
     public Country() {
 
     }
+
     public Country(String country, double area) {
         this.country = country;
         this.area = area;
     }
 
-    public double getArea() {
+    public double getMeasure() {
         return area;
     }
 
@@ -23,4 +24,5 @@ public class Country {
     public void setCountry(String country) {
         this.country = country;
     }
+
 }
