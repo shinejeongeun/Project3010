@@ -1,0 +1,4 @@
+include ':InterfacePrograms'
+include ':standardjava'
+include ':app'
+rootProject.name = "0324"
