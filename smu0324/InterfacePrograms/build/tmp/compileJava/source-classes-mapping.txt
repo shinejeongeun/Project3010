@@ -1,0 +1,8 @@
+com/example/interfaceprograms/Measurable.java
+ com.example.interfaceprograms.Measurable
+com/example/interfaceprograms/MyInterfaceProg.java
+ com.example.interfaceprograms.MyInterfaceProg
+com/example/interfaceprograms/Bankaccount.java
+ com.example.interfaceprograms.Bankaccount
+com/example/interfaceprograms/Country.java
+ com.example.interfaceprograms.Country
